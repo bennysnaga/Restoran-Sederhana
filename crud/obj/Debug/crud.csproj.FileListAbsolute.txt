@@ -1,0 +1,37 @@
+D:\Bahan Ajar\SMDB\crud\crud\obj\Debug\crud.csprojResolveAssemblyReference.cache
+D:\Bahan Ajar\SMDB\crud\crud\obj\Debug\crud.MainForm.resources
+D:\Bahan Ajar\SMDB\crud\crud\obj\Debug\crud.csproj.GenerateResource.Cache
+D:\Bahan Ajar\SMDB\crud\crud\bin\Debug\crud.exe
+D:\Bahan Ajar\SMDB\crud\crud\bin\Debug\crud.pdb
+D:\Bahan Ajar\SMDB\crud\crud\bin\Debug\MySql.Data.dll
+D:\Bahan Ajar\SMDB\crud\crud\obj\Debug\crud.exe
+D:\Bahan Ajar\SMDB\crud\crud\obj\Debug\crud.pdb
+C:\Users\Acer\Documents\SharpDevelop Projects\crud\crud\bin\Debug\crud.exe
+C:\Users\Acer\Documents\SharpDevelop Projects\crud\crud\bin\Debug\crud.pdb
+C:\Users\Acer\Documents\SharpDevelop Projects\crud\crud\obj\Debug\crud.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\SharpDevelop Projects\crud\crud\obj\Debug\crud.MainForm.resources
+C:\Users\Acer\Documents\SharpDevelop Projects\crud\crud\obj\Debug\crud.csproj.GenerateResource.Cache
+C:\Users\Acer\Documents\SharpDevelop Projects\crud\crud\obj\Debug\crud.exe
+C:\Users\Acer\Documents\SharpDevelop Projects\crud\crud\obj\Debug\crud.pdb
+C:\Users\Acer\Documents\SharpDevelop Projects\crud\crud\bin\Debug\MySql.Data.dll
+D:\crud (2)\crud\crud\bin\Debug\crud.exe
+D:\crud (2)\crud\crud\bin\Debug\crud.pdb
+D:\crud (2)\crud\crud\obj\Debug\crud.csprojResolveAssemblyReference.cache
+D:\crud (2)\crud\crud\obj\Debug\crud.MainForm.resources
+D:\crud (2)\crud\crud\obj\Debug\crud.csproj.GenerateResource.Cache
+D:\crud (2)\crud\crud\obj\Debug\crud.exe
+D:\crud (2)\crud\crud\obj\Debug\crud.pdb
+E:\Semester 4\Lab PV 4\crud (2)\crud (2)\crud\crud\bin\Debug\crud.exe
+E:\Semester 4\Lab PV 4\crud (2)\crud (2)\crud\crud\bin\Debug\crud.pdb
+E:\Semester 4\Lab PV 4\crud (2)\crud (2)\crud\crud\obj\Debug\crud.MainForm.resources
+E:\Semester 4\Lab PV 4\crud (2)\crud (2)\crud\crud\obj\Debug\crud.csproj.GenerateResource.cache
+E:\Semester 4\Lab PV 4\crud (2)\crud (2)\crud\crud\obj\Debug\crud.exe
+E:\Semester 4\Lab PV 4\crud (2)\crud (2)\crud\crud\obj\Debug\crud.pdb
+E:\Semester 4\Lab PV 4\crud (2)\crud (2)\crud\crud\obj\Debug\crud.csprojResolveAssemblyReference.cache
+E:\Semester 4\Lab PV 4\crud (2)\UTS INI BUJANG\crud\crud\bin\Debug\crud.exe
+E:\Semester 4\Lab PV 4\crud (2)\UTS INI BUJANG\crud\crud\bin\Debug\crud.pdb
+E:\Semester 4\Lab PV 4\crud (2)\UTS INI BUJANG\crud\crud\obj\Debug\crud.csprojResolveAssemblyReference.cache
+E:\Semester 4\Lab PV 4\crud (2)\UTS INI BUJANG\crud\crud\obj\Debug\crud.MainForm.resources
+E:\Semester 4\Lab PV 4\crud (2)\UTS INI BUJANG\crud\crud\obj\Debug\crud.csproj.GenerateResource.Cache
+E:\Semester 4\Lab PV 4\crud (2)\UTS INI BUJANG\crud\crud\obj\Debug\crud.exe
+E:\Semester 4\Lab PV 4\crud (2)\UTS INI BUJANG\crud\crud\obj\Debug\crud.pdb
